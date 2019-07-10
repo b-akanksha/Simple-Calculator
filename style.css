@@ -1,0 +1,17 @@
+p {
+    size: 12px;
+    color: black;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+input{
+    background-color: bisque;
+    color: black;
+    border: black;
+    width: 100%;
+}
